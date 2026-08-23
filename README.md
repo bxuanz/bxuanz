@@ -48,28 +48,17 @@
 ## 🚀 My Repositories
 
 <div align="center">
-  <a href="https://github.com/bxuanz/SHARP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bxuanz&repo=SHARP&theme=tokyonight&hide_border=true" alt="SHARP" /></a>
-  &nbsp;
-  <a href="https://github.com/bxuanz/SigMa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bxuanz&repo=SigMa&theme=tokyonight&hide_border=true" alt="SigMa" /></a>
-  <br/>
-  <a href="https://github.com/bxuanz/StructDiff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bxuanz&repo=StructDiff&theme=tokyonight&hide_border=true" alt="StructDiff" /></a>
-  &nbsp;
-  <a href="https://github.com/bxuanz/Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bxuanz&repo=Tracker&theme=tokyonight&hide_border=true" alt="Tracker" /></a>
+  <a href="https://github.com/bxuanz/SHARP"><img src="https://img.shields.io/github/stars/bxuanz/SHARP?style=for-the-badge&logo=github&label=SHARP&color=e3405f" alt="SHARP" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/bxuanz/SigMa"><img src="https://img.shields.io/github/stars/bxuanz/SigMa?style=for-the-badge&logo=github&label=SigMa&color=4c8eda" alt="SigMa" /></a>
+  <br/><br/>
+  <a href="https://github.com/bxuanz/StructDiff"><img src="https://img.shields.io/github/stars/bxuanz/StructDiff?style=for-the-badge&logo=github&label=StructDiff&color=9d5cff" alt="StructDiff" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/bxuanz/Tracker"><img src="https://img.shields.io/github/stars/bxuanz/Tracker?style=for-the-badge&logo=github&label=Tracker&color=2ea44f" alt="Tracker" /></a>
 </div>
 
 ## ⚡ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,latex,git,github,vscode,linux" alt="Tech Stack" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bxuanz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxuanz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=bxuanz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📈 Activity Graph
