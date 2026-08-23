@@ -1,8 +1,32 @@
-<!-- This file is the GitHub Profile README for bxuanz. Push it to the root of the special repository https://github.com/bxuanz/bxuanz to display it on the profile page. -->
+<!--
+  GitHub Profile README for bxuanz.
+  Push this file to the root of the special repository https://github.com/bxuanz/bxuanz to display it on the profile page.
+  IMPORTANT: also push .github/workflows/snake.yml along with it, then go to the repository's Actions page
+  and manually trigger the "Generate Snake Animation" workflow once (workflow_dispatch) so the snake SVGs
+  are generated on the `output` branch. Before that first run, the snake section will not display.
+-->
 
-# Hi, I'm Bingxuan Zhao (zbx) 👋
+<div align="center">
 
-Ph.D. candidate working on **generative models for remote sensing imagery** — making image synthesis sharper, larger, and more faithful to the earth we observe.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bingxuan%20Zhao&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=zbx&descSize=20&descAlignY=55" alt="header banner" />
+
+<a href="https://bxuanz.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Ph.D.+Candidate+%40+NWPU;Computer+Vision+%7C+Generative+AI;Remote+Sensing+Image+Synthesis;%E5%8A%9F%E4%B8%8D%E5%94%90%E6%8D%90" alt="typing animation" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=bxuanz&style=for-the-badge&color=blueviolet" alt="Profile views" />
+
+<br/><br/>
+
+<a href="https://bxuanz.github.io"><img src="https://img.shields.io/badge/Homepage-bxuanz.github.io-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Homepage" /></a>
+&nbsp;
+<a href="https://scholar.google.com/citations?user=t8k-A3wAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+&nbsp;
+<a href="mailto:bxuanzhao202@gmail.com"><img src="https://img.shields.io/badge/Email-bxuanzhao202%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 ## 🎓 About Me
 
@@ -14,43 +38,67 @@ Ph.D. candidate working on **generative models for remote sensing imagery** — 
 
 ## 📰 News
 
-- **[2026]** 🎉 **SHARP** is accepted to **ACM MM 2026** as an **Oral** presentation!
+- **[2026]** 🎉 **SHARP** is accepted to **ACM MM 2026** as an ![Oral](https://img.shields.io/badge/Oral-e63946?style=flat-square) presentation!
 - **[2026]** 🎉 **SigMa** is accepted to **ICML 2026**!
-- **[2026]** **Batch Loss Score** is accepted to **CVPR 2026** as a **Highlight** (co-author).
+- **[2026]** **Batch Loss Score** is accepted to **CVPR 2026** as a ![Highlight](https://img.shields.io/badge/Highlight-f4a261?style=flat-square) (co-author).
 - **[2026]** **Inconsistency Biases** is accepted to **ICLR 2026** (co-author).
 - **[2025]** **RLI-DM** is accepted by **IEEE T-GRS** (first author).
 - **[2025]** **MMO-IG** is accepted by **IEEE T-GRS** (co-first author).
 
-## 📄 Selected Publications
+## 🚀 My Repositories
 
-| Paper | Venue | Code |
-| :--- | :--- | :--- |
-| **SHARP**: Spectrum-aware Highly-dynamic Adaptation for Resolution Promotion in Remote Sensing Synthesis | ACM MM 2026 **(Oral)** | [![GitHub stars](https://img.shields.io/github/stars/bxuanz/SHARP?style=social)](https://github.com/bxuanz/SHARP) |
-| **SigMa**: Sigmoid Modulation for Ultra High Resolution Diffusion | ICML 2026 | [![GitHub stars](https://img.shields.io/github/stars/bxuanz/SigMa?style=social)](https://github.com/bxuanz/SigMa) |
-| **Batch Loss Score** (co-author) | CVPR 2026 **(Highlight)** | [![GitHub stars](https://img.shields.io/github/stars/mrazhou/BLS?style=social)](https://github.com/mrazhou/BLS) |
-| **Inconsistency Biases** (co-author) | ICLR 2026 | [![GitHub stars](https://img.shields.io/github/stars/mrazhou/RePB?style=social)](https://github.com/mrazhou/RePB) |
-| **RLI-DM**: Robust Layout-based Iterative Diffusion Model | IEEE T-GRS 2025 | — |
-| **MMO-IG** (co-first author) | IEEE T-GRS 2025 | [![GitHub stars](https://img.shields.io/github/stars/omtcyang/MMO-IG?style=social)](https://github.com/omtcyang/MMO-IG) |
+<div align="center">
+  <a href="https://github.com/bxuanz/SHARP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bxuanz&repo=SHARP&theme=tokyonight&hide_border=true" alt="SHARP" /></a>
+  &nbsp;
+  <a href="https://github.com/bxuanz/SigMa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bxuanz&repo=SigMa&theme=tokyonight&hide_border=true" alt="SigMa" /></a>
+  <br/>
+  <a href="https://github.com/bxuanz/StructDiff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bxuanz&repo=StructDiff&theme=tokyonight&hide_border=true" alt="StructDiff" /></a>
+  &nbsp;
+  <a href="https://github.com/bxuanz/Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bxuanz&repo=Tracker&theme=tokyonight&hide_border=true" alt="Tracker" /></a>
+</div>
 
-Other collaborative works appear in **IEEE T-CSVT 2025** and **IEEE T-ITS 2024**.
+## ⚡ Tech Stack
 
-## 🛠️ Open-source Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,latex,git,github,vscode,linux" alt="Tech Stack" />
+</div>
 
-- [**Tracker**](https://github.com/bxuanz/Tracker) [![GitHub stars](https://img.shields.io/github/stars/bxuanz/Tracker?style=social)](https://github.com/bxuanz/Tracker) — a general-purpose temporal annotation tool for GB-scale GeoTIFF and ordinary images.
-- [**StructDiff**](https://github.com/bxuanz/StructDiff) — code for a paper under review, *coming soon*.
+## 📊 GitHub Stats
 
-## 🔗 Links
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bxuanz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxuanz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=bxuanz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-- 🏠 Homepage: [bxuanz.github.io](https://bxuanz.github.io)
-- 📚 Google Scholar: [scholar.google.com/citations?user=t8k-A3wAAAAJ](https://scholar.google.com/citations?user=t8k-A3wAAAAJ)
-- ✉️ Email: [bxuanzhao202@gmail.com](mailto:bxuanzhao202@gmail.com)
+## 📈 Activity Graph
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bxuanz&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
-<p align="center">
-  < img src="https://github-readme-stats.vercel.app/api?username=bxuanz&show_icons=true" alt="GitHub Stats" />
-</p >
+## 🏆 Trophies
 
-<p align="center">
-  < img src="https://komarev.com/ghpvc/?username=bxuanz" alt="Profile views" />
-</p >
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bxuanz&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+## 🐍 Contribution Snake
+
+<!--
+  The snake SVGs below are generated by .github/workflows/snake.yml onto the `output` branch.
+  They will only display after Actions are enabled for the bxuanz/bxuanz repository and the
+  workflow has run at least once (trigger it manually from the Actions page on first push).
+-->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bxuanz/bxuanz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bxuanz/bxuanz/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/bxuanz/bxuanz/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer banner" />
+</div>
