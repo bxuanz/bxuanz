@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bingxuan%20Zhao&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=zbx&descSize=20&descAlignY=55" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bingxuan%20Zhao&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Edward&descSize=20&descAlignY=55" alt="header banner" />
 
 <a href="https://bxuanz.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Ph.D.+Candidate+%40+NWPU;Computer+Vision+%7C+Generative+AI;Remote+Sensing+Image+Synthesis;%E5%8A%9F%E4%B8%8D%E5%94%90%E6%8D%90" alt="typing animation" />
