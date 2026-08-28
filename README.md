@@ -61,11 +61,7 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,latex,git,github,vscode,linux" alt="Tech Stack" />
 </div>
 
-## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bxuanz&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
 
 ## 🐍 Contribution Snake
 
