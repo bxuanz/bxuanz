@@ -14,10 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Ph.D.+Candidate+%40+NWPU;Computer+Vision+%7C+Generative+AI;Remote+Sensing+Image+Synthesis;%E5%8A%9F%E4%B8%8D%E5%94%90%E6%8D%90" alt="typing animation" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=bxuanz&style=for-the-badge&color=blueviolet" alt="Profile views" />
-
 <br/><br/>
 
 <a href="https://bxuanz.github.io"><img src="https://img.shields.io/badge/Homepage-bxuanz.github.io-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Homepage" /></a>
