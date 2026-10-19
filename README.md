@@ -34,7 +34,7 @@
 
 ## 📰 News
 
-- **[2026]** 🎉 **SHARP** is accepted to **ACM MM 2026** as an ![Oral](https://img.shields.io/badge/Oral-e63946?style=flat-square) presentation!
+- **[2026]** 🎉 **SHARP** is accepted to **ACM MM 2026**！
 - **[2026]** 🎉 **SigMa** is accepted to **ICML 2026**!
 - **[2026]** **Batch Loss Score** is accepted to **CVPR 2026** as a ![Highlight](https://img.shields.io/badge/Highlight-f4a261?style=flat-square) (co-author).
 - **[2026]** **Inconsistency Biases** is accepted to **ICLR 2026** (co-author).
